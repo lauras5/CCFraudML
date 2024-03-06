@@ -1,4 +1,4 @@
-# README for CCFraudML (Credit Card Fraud Detection Model)
+# CCFraudML (Credit Card Fraud Detection Model)
 
 ## Introduction
 Credit card fraud detection using Scikit-Learn and Snap ML. This README provides an overview of a machine learning model designed to detect credit card fraud using Python and Snap ML. The model utilizes supervised learning techniques and is implemented using the `snapml` library for efficient training and inference.
