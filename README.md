@@ -34,4 +34,4 @@ The dataset used for training and evaluation is available at the following URL:
   - Hinge Loss (Scikit-Learn): 0.234
 
 ## Conclusion
-The Snap ML library demonstrates significant speedup in training time compared to Scikit-Learn while maintaining comparable model performance metrics, making it a valuable tool for large-scale machine learning tasks.
+The Snap ML library demonstrates significant speedup in training time compared to Scikit-Learn while maintaining comparable model performance metrics, making it a valuable tool for large-scale machine learning tasks.Snap ML leverages advanced parallel processing capabilities, making use of multi-core CPUs and other optimizations to significantly accelerate the training process. 
